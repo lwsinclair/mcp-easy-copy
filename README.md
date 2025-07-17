@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/fisheepx-mcp-easy-copy-badge.png)](https://mseep.ai/app/fisheepx-mcp-easy-copy)
+
 # MCP Easy Copy
 
 [![MCP Server](https://badge.mcpx.dev?type=server)](https://modelcontextprotocol.io)
